@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHIVENDRA18
 - 👀 I’m interested in ...  Python Programming 
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...google microsoft infosys
+- 💞️ I’m looking to collaborate on ...data analysis , data science 
 - 📫 How to reach me ... at the highest pay scale
 
 <!---
